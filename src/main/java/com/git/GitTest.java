@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("push");
         System.out.println("pull");
         System.out.println("冲突");
+        System.out.println("tu");
     }
 }
